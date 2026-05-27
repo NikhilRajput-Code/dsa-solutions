@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/second-largest-element?subject=dsa&approach=optimal&tab=submissions
-// Solved    : 2026-05-27T19:24:01.628Z
+// Solved    : 2026-05-27T19:24:11.630Z
 // ────────────────────────────────────────────────────────────
 
 class Solution {
