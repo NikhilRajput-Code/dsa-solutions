@@ -3,8 +3,8 @@
 // Problem   : Palindrome Number
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/palindrome-number/description/
-// Solved    : 2026-05-27T19:22:00.050Z
+// URL       : https://leetcode.com/problems/palindrome-number/
+// Solved    : 2026-05-27T19:22:10.407Z
 // ────────────────────────────────────────────────────────────
 
 class Solution {
@@ -21,3 +21,4 @@ class Solution {
         return (x == reversed || x == reversed / 10);
     }
 }
+
