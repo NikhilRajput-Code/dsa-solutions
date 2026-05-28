@@ -3,8 +3,8 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/
-// Solved    : 2026-05-28T16:58:41.302Z
+// URL       : https://leetcode.com/problems/valid-parentheses/submissions/2015697343/
+// Solved    : 2026-05-28T16:58:50.166Z
 // ────────────────────────────────────────────────────────────
 
                 }
@@ -22,4 +22,4 @@
         for (char ch : s.toCharArray()) {
         Stack<Character> stack = new Stack<>();
     public boolean isValid(String s) {
-class Solution {
+                }
