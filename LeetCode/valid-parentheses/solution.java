@@ -4,7 +4,7 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/valid-parentheses/description/
-// Solved    : 2026-05-28T16:58:01.304Z
+// Solved    : 2026-05-28T16:58:10.282Z
 // ────────────────────────────────────────────────────────────
 
 class Solution {
@@ -23,3 +23,4 @@ class Solution {
                 }
                 if (ch == ']' && top != '[') {
                     return false;
+                }
