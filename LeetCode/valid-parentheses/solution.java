@@ -4,7 +4,7 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/valid-parentheses/
-// Solved    : 2026-05-28T16:56:41.263Z
+// Solved    : 2026-05-28T16:56:51.306Z
 // ────────────────────────────────────────────────────────────
 
                 char top = stack.pop();
