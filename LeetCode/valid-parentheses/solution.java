@@ -3,8 +3,8 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/solutions/
-// Solved    : 2026-05-28T16:57:01.300Z
+// URL       : https://leetcode.com/problems/valid-parentheses/description/
+// Solved    : 2026-05-28T16:57:11.301Z
 // ────────────────────────────────────────────────────────────
 
                 char top = stack.pop();
