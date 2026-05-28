@@ -124,3 +124,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Remove bad elements in Linked List](TUF/remove-bad-elements-in-linked-list/solution.java) | Unknown | java | 2026-05-28 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-28 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-28 |
+| - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-28 |
