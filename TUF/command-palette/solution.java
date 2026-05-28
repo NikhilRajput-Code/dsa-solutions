@@ -4,13 +4,9 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?category=linked-list&subcategory=fundamentals-single-ll&tab=editorial
-// Solved    : 2026-05-28T18:24:10.485Z
+// Solved    : 2026-05-28T18:24:20.486Z
 // ────────────────────────────────────────────────────────────
 
-    }
-
-    ListNode(int x, ListNode next) {
-        this.data = x;
         this.next = next;
     }
 }
@@ -22,3 +18,6 @@ class Solution {
         temp = null;
         if(head == null) 
         return null;
+        return head;
+    }
+}
