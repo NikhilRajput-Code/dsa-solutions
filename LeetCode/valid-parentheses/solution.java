@@ -3,8 +3,8 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/description/
-// Solved    : 2026-05-28T16:58:30.317Z
+// URL       : https://leetcode.com/problems/valid-parentheses/
+// Solved    : 2026-05-28T16:58:41.302Z
 // ────────────────────────────────────────────────────────────
 
                 }
