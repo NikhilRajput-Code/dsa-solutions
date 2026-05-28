@@ -3,8 +3,8 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/traversal-in-linked-list?subject=dsa&tab=editorial
-// Solved    : 2026-05-28T18:18:03.055Z
+// URL       : https://takeuforward.org/plus/dsa/problems/traversal-in-linked-list?subject=dsa&tab=submissions
+// Solved    : 2026-05-28T18:18:10.088Z
 // ────────────────────────────────────────────────────────────
 
 */
