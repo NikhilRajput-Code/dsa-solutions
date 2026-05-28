@@ -3,23 +3,20 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/submissions/2015697343/
-// Solved    : 2026-05-28T17:06:11.331Z
+// URL       : https://leetcode.com/problems/valid-parentheses/
+// Solved    : 2026-05-28T17:06:20.281Z
 // ────────────────────────────────────────────────────────────
 
                 }
                 if (ch == ']' && top != '[') {
                     return false;
-                    return false;
-                char top = stack.pop();
-                if (ch == ')' && top != '(') {
-                if (stack.isEmpty()) {
+                }
+                if (ch == '}' && top != '{') {
                     return false;
                 }
-            if (ch == '(' || ch == '[' || ch == '{') {
-                stack.push(ch);
-            } else {
-class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for (char ch : s.toCharArray()) {
+            }
+        }
+        return stack.isEmpty();
+    }
+}
+                    return false;
