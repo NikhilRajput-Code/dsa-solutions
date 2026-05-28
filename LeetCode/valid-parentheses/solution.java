@@ -3,8 +3,8 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/
-// Solved    : 2026-05-28T16:56:51.306Z
+// URL       : https://leetcode.com/problems/valid-parentheses/solutions/
+// Solved    : 2026-05-28T16:57:01.300Z
 // ────────────────────────────────────────────────────────────
 
                 char top = stack.pop();
@@ -14,12 +14,12 @@
                 if (ch == ']' && top != '[') {
                     return false;
                 }
-                if (ch == '}' && top != '{') {
-                    return false;
-                }
                     return false;
                 if (stack.isEmpty()) {
             } else {
                 stack.push(ch);
             if (ch == '(' || ch == '[' || ch == '{') {
         for (char ch : s.toCharArray()) {
+        Stack<Character> stack = new Stack<>();
+class Solution {
+    public boolean isValid(String s) {
