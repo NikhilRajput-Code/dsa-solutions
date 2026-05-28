@@ -4,23 +4,22 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/valid-parentheses/submissions/2015697343/
-// Solved    : 2026-05-28T17:05:41.333Z
+// Solved    : 2026-05-28T17:05:51.333Z
 // ────────────────────────────────────────────────────────────
 
                 }
                 if (ch == ']' && top != '[') {
                     return false;
                     return false;
-                if (ch == ')' && top != '(') {
                 char top = stack.pop();
-                }
-                    return false;
+                if (ch == ')' && top != '(') {
                 if (stack.isEmpty()) {
-            } else {
-                stack.push(ch);
-            if (ch == '(' || ch == '[' || ch == '{') {
-        for (char ch : s.toCharArray()) {
-                }
-                if (ch == '}' && top != '{') {
                     return false;
                 }
+            if (ch == '(' || ch == '[' || ch == '{') {
+                stack.push(ch);
+            } else {
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        for (char ch : s.toCharArray()) {
