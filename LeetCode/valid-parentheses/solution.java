@@ -4,7 +4,7 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/valid-parentheses/submissions/2015697343/
-// Solved    : 2026-05-28T17:05:31.332Z
+// Solved    : 2026-05-28T17:05:41.333Z
 // ────────────────────────────────────────────────────────────
 
                 }
@@ -20,6 +20,7 @@
                 stack.push(ch);
             if (ch == '(' || ch == '[' || ch == '{') {
         for (char ch : s.toCharArray()) {
-        Stack<Character> stack = new Stack<>();
-    public boolean isValid(String s) {
-class Solution {
+                }
+                if (ch == '}' && top != '{') {
+                    return false;
+                }
