@@ -3,21 +3,21 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?subject=dsa&tab=submissions
-// Solved    : 2026-05-28T18:37:20.420Z
+// URL       : https://takeuforward.org/plus/dsa/problems/deletion-of-the-tail-of-ll?subject=dsa&tab=submissions
+// Solved    : 2026-05-28T18:37:30.159Z
 // ────────────────────────────────────────────────────────────
 
-        this.next = next;
-    }
-}
-*/
 class Solution {
-    public ListNode deleteHead(ListNode head) {
-        if(head == null) 
-        return null;
+    public ListNode deleteTail(ListNode head) {
+        //your code goes here
+        if(head == null || head.next == null) {
+            return null;
+        }
         ListNode temp = head;
-        head = head.next;
-        temp = null;
+        while(temp.next.next != null) {
+            temp = temp.next;
+        }
+        temp.next = null;
         return head;
     }
 }
