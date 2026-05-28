@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?subject=dsa&tab=submissions
-// Solved    : 2026-05-28T18:35:00.423Z
+// Solved    : 2026-05-28T18:35:10.424Z
 // ────────────────────────────────────────────────────────────
 
         this.next = next;
