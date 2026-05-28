@@ -3,12 +3,23 @@
 // Problem   : Valid Parentheses
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/valid-parentheses/solutions/7108838/100-beats-0ms-stack-beginner-friendly-py-y4xp/
-// Solved    : 2026-05-28T16:56:10.320Z
+// URL       : https://leetcode.com/problems/valid-parentheses/
+// Solved    : 2026-05-28T16:56:21.304Z
 // ────────────────────────────────────────────────────────────
 
-class Solution {
-    public boolean isValid(String s) {
-        
-    }
-}
+                char top = stack.pop();
+                if (ch == ')' && top != '(') {
+                    return false;
+                }
+                if (ch == ']' && top != '[') {
+                    return false;
+                }
+                if (ch == '}' && top != '{') {
+                    return false;
+                }
+                    return false;
+                if (stack.isEmpty()) {
+            } else {
+                stack.push(ch);
+            if (ch == '(' || ch == '[' || ch == '{') {
+        for (char ch : s.toCharArray()) {
