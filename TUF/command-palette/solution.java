@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/traversal-in-linked-list?subject=dsa&tab=submissions
-// Solved    : 2026-05-28T18:18:20.089Z
+// Solved    : 2026-05-28T18:18:30.089Z
 // ────────────────────────────────────────────────────────────
 
 */
