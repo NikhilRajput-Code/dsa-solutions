@@ -4,7 +4,7 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/remove-linked-list-elements/description/
-// Solved    : 2026-05-29T05:19:41.436Z
+// Solved    : 2026-05-29T05:19:50.219Z
 // ────────────────────────────────────────────────────────────
 
  *     int val;
