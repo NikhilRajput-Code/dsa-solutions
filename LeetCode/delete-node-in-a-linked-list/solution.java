@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/
-// Solved    : 2026-05-29T05:17:10.632Z
+// Solved    : 2026-05-29T05:17:21.634Z
 // ────────────────────────────────────────────────────────────
 
  *     int val;
@@ -16,5 +16,5 @@ class Solution {
     public void deleteNode(ListNode node) {
          node.val = node.next.val;
     }
-        node.next = node.next.next;
+         node.next = node.next.next;
 }
