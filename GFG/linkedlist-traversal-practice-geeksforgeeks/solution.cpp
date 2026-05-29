@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : cpp
 // URL       : https://www.geeksforgeeks.org/problems/linkedlist-traversal/1
-// Solved    : 2026-05-29T04:34:10.435Z
+// Solved    : 2026-05-29T04:34:20.267Z
 // ────────────────────────────────────────────────────────────
 
-/*class Node {    int data;    Node next;    Node(int val) {        data = val;        next = null;    }}*/class Solution {    void printList(Node head) {        // code here        Node temp = head;        while(temp != null) {                    }    }}
+/*class Node {    int data;    Node next;    Node(int val) {        data = val;        next = null;    }}*/class Solution {    void printList(Node head) {        Li        Node temp = head;        while(temp != null) {                    }    }}
