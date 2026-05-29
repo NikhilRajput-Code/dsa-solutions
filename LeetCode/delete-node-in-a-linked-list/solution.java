@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/2016064032/
-// Solved    : 2026-05-29T05:01:31.623Z
+// Solved    : 2026-05-29T05:01:41.622Z
 // ────────────────────────────────────────────────────────────
 
 /**
