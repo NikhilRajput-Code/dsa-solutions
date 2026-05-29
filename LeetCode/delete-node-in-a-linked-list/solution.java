@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/5113147/detailed-explanationextremely-simple12-l-9kxs/
-// Solved    : 2026-05-29T05:00:31.622Z
+// Solved    : 2026-05-29T05:00:40.266Z
 // ────────────────────────────────────────────────────────────
 
 /**
