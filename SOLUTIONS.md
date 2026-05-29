@@ -197,3 +197,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
  Need To Crack
 Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) | Unknown | cpp | 2026-05-29 |
 | - | LeetCode | [Delete Node in a Linked List](LeetCode/delete-node-in-a-linked-list/solution.cpp) | Medium | cpp | 2026-05-29 |
+| - | LeetCode | [Delete Node in a Linked List](LeetCode/delete-node-in-a-linked-list/solution.java) | Medium | java | 2026-05-29 |
