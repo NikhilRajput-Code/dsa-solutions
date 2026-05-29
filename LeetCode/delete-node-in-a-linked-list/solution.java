@@ -4,12 +4,9 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/
-// Solved    : 2026-05-29T05:02:41.617Z
+// Solved    : 2026-05-29T05:02:51.617Z
 // ────────────────────────────────────────────────────────────
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode(int x) { val = x; }
