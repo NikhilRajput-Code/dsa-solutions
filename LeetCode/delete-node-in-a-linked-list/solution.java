@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/editorial/
-// Solved    : 2026-05-29T05:00:11.620Z
+// Solved    : 2026-05-29T05:00:21.621Z
 // ────────────────────────────────────────────────────────────
 
 /**
