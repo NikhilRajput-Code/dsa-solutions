@@ -4,17 +4,18 @@
 // Difficulty: Easy
 // Language  : java
 // URL       : https://leetcode.com/problems/remove-linked-list-elements/
-// Solved    : 2026-05-29T05:18:42.511Z
+// Solved    : 2026-05-29T05:18:51.633Z
 // ────────────────────────────────────────────────────────────
 
  *     int val;
  *     ListNode next;
- *     ListNode(int x) { val = x; }
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
-    public void deleteNode(ListNode node) {
-         node.val = node.next.val;
+    public ListNode removeElements(ListNode head, int val) {
+        
     }
-         node.next = node.next.next;
 }
