@@ -3,8 +3,8 @@
 // Problem   : Delete Node in a Linked List
 // Difficulty: Medium
 // Language  : java
-// URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/2016064032/
-// Solved    : 2026-05-29T05:01:41.622Z
+// URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+// Solved    : 2026-05-29T05:01:51.624Z
 // ────────────────────────────────────────────────────────────
 
 /**
