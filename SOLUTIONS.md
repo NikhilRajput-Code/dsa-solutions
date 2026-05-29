@@ -188,3 +188,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | GFG | [Delete Head of Linked List | Practice | GeeksforGeeks](GFG/delete-head-of-linked-list-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
 | - | GFG | [Delete Head of Linked List | Practice | GeeksforGeeks](GFG/delete-head-of-linked-list-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
 | - | GFG | [Delete Head of Linked List | Practice | GeeksforGeeks](GFG/delete-head-of-linked-list-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
+| - | GFG | [Delete Head of Linked List | Practice | GeeksforGeeks](GFG/delete-head-of-linked-list-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
