@@ -3,8 +3,8 @@
 // Problem   : Remove Linked List Elements
 // Difficulty: Easy
 // Language  : java
-// URL       : https://leetcode.com/problems/remove-linked-list-elements/
-// Solved    : 2026-05-29T05:18:51.633Z
+// URL       : https://leetcode.com/problems/remove-linked-list-elements/description/
+// Solved    : 2026-05-29T05:19:01.633Z
 // ────────────────────────────────────────────────────────────
 
  *     int val;
