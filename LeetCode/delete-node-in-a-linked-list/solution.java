@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-node-in-a-linked-list/
-// Solved    : 2026-05-29T05:08:27.456Z
+// Solved    : 2026-05-29T05:09:27.480Z
 // ────────────────────────────────────────────────────────────
 
  *     int val;
