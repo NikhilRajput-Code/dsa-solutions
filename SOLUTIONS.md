@@ -134,3 +134,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
  Need To Crack
 Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) | Unknown | cpp | 2026-05-29 |
 | - | GFG | [LinkedList Traversal | Practice | GeeksforGeeks](GFG/linkedlist-traversal-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
+| - | GFG | [LinkedList Traversal | Practice | GeeksforGeeks](GFG/linkedlist-traversal-practice-geeksforgeeks/solution.cpp) | Unknown | cpp | 2026-05-29 |
