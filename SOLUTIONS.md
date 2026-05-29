@@ -252,3 +252,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | LeetCode | [Delete Node in a Linked List](LeetCode/delete-node-in-a-linked-list/solution.java) | Medium | java | 2026-05-29 |
 | - | LeetCode | [Delete Node in a Linked List](LeetCode/delete-node-in-a-linked-list/solution.java) | Medium | java | 2026-05-29 |
 | - | LeetCode | [Remove Linked List Elements](LeetCode/remove-linked-list-elements/solution.java) | Easy | java | 2026-05-29 |
+| - | LeetCode | [Remove Linked List Elements](LeetCode/remove-linked-list-elements/solution.java) | Easy | java | 2026-05-29 |
