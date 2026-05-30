@@ -3,8 +3,8 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : cpp
-// URL       : https://takeuforward.org/plus/dsa/problems/merge-sorting?subject=dsa-concept-revision&sidebar=open
-// Solved    : 2026-05-30T17:34:33.470Z
+// URL       : https://takeuforward.org/plus/home
+// Solved    : 2026-05-30T18:38:00.902Z
 // ────────────────────────────────────────────────────────────
 
 // Paste your solution here.
