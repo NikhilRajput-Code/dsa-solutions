@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/add-two-numbers/
-// Solved    : 2026-05-30T18:36:10.580Z
+// Solved    : 2026-05-30T18:36:20.724Z
 // ────────────────────────────────────────────────────────────
 
 /**
@@ -19,5 +19,5 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-         temp = temp.next;
+        
     }
