@@ -6,7 +6,7 @@ Tech Interviews
 // Difficulty: Unknown
 // Language  : cpp
 // URL       : https://takeuforward.org/
-// Solved    : 2026-05-30T17:30:21.018Z
+// Solved    : 2026-05-30T17:30:30.040Z
 // ────────────────────────────────────────────────────────────
 
 // Paste your solution here.
