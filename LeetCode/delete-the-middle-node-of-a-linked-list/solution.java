@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
-// Solved    : 2026-05-30T18:01:10.125Z
+// Solved    : 2026-05-30T18:01:20.120Z
 // ────────────────────────────────────────────────────────────
 
  * }
@@ -20,5 +20,5 @@ class Solution {
             fast = fast.next.next;
         }
     }
-        slow.next = slow.n
-}
+        slow.next = slow.next.next;
+        return head;
