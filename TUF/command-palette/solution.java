@@ -3,19 +3,18 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=submissions
-// Solved    : 2026-05-30T17:46:40.029Z
+// URL       : https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?subject=dsa-concept-revision
+// Solved    : 2026-05-30T17:47:43.367Z
 // ────────────────────────────────────────────────────────────
 
-    return null;
-    ListNode slow = head;
-    ListNode fast = head.next.next;
-    while(fast != null && fast.next != null) {
-        slow = slow.next;
-        fast = fast.next.next;
-    }
-    if(head == null || head.next == null) 
-    public ListNode deleteMiddle(ListNode head) {
-class Solution {
+/*Definition of singly linked list:
+class ListNode {
+    int val;
+    ListNode next;
 
- */
+    ListNode() {
+        val = 0;
+        next = null;
+    }
+
+    ListNode(int data1) {
