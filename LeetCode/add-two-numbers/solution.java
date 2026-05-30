@@ -4,21 +4,22 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/add-two-numbers/
-// Solved    : 2026-05-30T18:37:10.501Z
+// Solved    : 2026-05-30T18:37:20.218Z
 // ────────────────────────────────────────────────────────────
 
-    public int data;
- */
- /*
-Definition of singly linked list:
-class ListNode{
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
-    public ListNode next;
+                l2 = l2.next;
+            }
+            sum += carry;
+            carry = sum/10;
+            ListNode node = new ListNode(sum % 10);
+            temp.next = node;
+            temp = temp.next;
+        }
+        return dummy.next;
+                sum += l2.va;
+            if(l2 != null) {
+            }
+                l1 = l1.next;
+                sum += l1.val;
+            if(l1 != null) {
+            int sum = 0;
