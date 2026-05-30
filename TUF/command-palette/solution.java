@@ -3,8 +3,8 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?subject=dsa-concept-revision&tab=submissions
-// Solved    : 2026-05-30T17:48:00.025Z
+// URL       : https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?subject=dsa-concept-revision
+// Solved    : 2026-05-30T17:48:10.027Z
 // ────────────────────────────────────────────────────────────
 
 /*Definition of singly linked list:
