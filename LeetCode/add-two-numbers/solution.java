@@ -3,8 +3,8 @@
 // Problem   : Add Two Numbers
 // Difficulty: Medium
 // Language  : java
-// URL       : https://leetcode.com/problems/add-two-numbers/
-// Solved    : 2026-05-30T18:37:20.218Z
+// URL       : https://leetcode.com/problems/add-two-numbers/submissions/2017507794/
+// Solved    : 2026-05-30T18:37:40.597Z
 // ────────────────────────────────────────────────────────────
 
                 l2 = l2.next;
@@ -16,7 +16,7 @@
             temp = temp.next;
         }
         return dummy.next;
-                sum += l2.va;
+                sum += l2.val;
             if(l2 != null) {
             }
                 l1 = l1.next;
