@@ -373,3 +373,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | LeetCode | [Linked List Cycle II](LeetCode/linked-list-cycle-ii/solution.cpp) | Medium | cpp | 2026-05-30 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
+| - | LeetCode | [Linked List Cycle II](LeetCode/linked-list-cycle-ii/solution.java) | Medium | java | 2026-05-30 |
