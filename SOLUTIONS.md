@@ -351,3 +351,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | LeetCode | [Delete the Middle Node of a Linked List](LeetCode/delete-the-middle-node-of-a-linked-list/solution.java) | Medium | java | 2026-05-30 |
 | - | LeetCode | [Delete the Middle Node of a Linked List](LeetCode/delete-the-middle-node-of-a-linked-list/solution.java) | Medium | java | 2026-05-30 |
 | - | LeetCode | [Delete the Middle Node of a Linked List](LeetCode/delete-the-middle-node-of-a-linked-list/solution.java) | Medium | java | 2026-05-30 |
+| - | LeetCode | [Delete the Middle Node of a Linked List](LeetCode/delete-the-middle-node-of-a-linked-list/solution.java) | Medium | java | 2026-05-30 |
