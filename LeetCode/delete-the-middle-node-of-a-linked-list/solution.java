@@ -4,10 +4,9 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
-// Solved    : 2026-05-30T17:58:00.126Z
+// Solved    : 2026-05-30T17:58:20.026Z
 // ────────────────────────────────────────────────────────────
 
-/**
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
@@ -19,5 +18,7 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head == n)
+        if(head == null || head.next == null) 
+        return null;
+        ListNo
     }
