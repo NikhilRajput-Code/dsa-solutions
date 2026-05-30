@@ -3,21 +3,18 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?subject=dsa&tab=submissions
-// Solved    : 2026-05-28T18:45:10.405Z
+// URL       : https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll?subject=dsa&approach=optimal-approach&tab=editorial
+// Solved    : 2026-05-30T17:33:09.293Z
 // ────────────────────────────────────────────────────────────
 
-        this.next = next;
-    }
 }
 */
+
 class Solution {
-    public ListNode deleteHead(ListNode head) {
-        if(head == null) 
-        return null;
-        ListNode temp = head;
-        head = head.next;
-        temp = null;
+    public ListNode insertAtHead(ListNode head, int X) {
+        //YOUR CODE GOES HERE
+        ListNode newnode = new ListNode(X);
+        newnode.next = head;
+        head = newnode;
         return head;
     }
-}
