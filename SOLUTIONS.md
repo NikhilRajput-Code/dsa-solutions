@@ -320,3 +320,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Your Entire Interview PrepJourney Simplified in ONE STOP](TUF/your-entire-interview-prepjourney-simplified-in-one-stop/solution.cpp) | Unknown | cpp | 2026-05-30 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
+| - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
