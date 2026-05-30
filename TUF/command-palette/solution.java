@@ -3,21 +3,22 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa&approach=optimal-approach&tab=submissions
-// Solved    : 2026-05-30T18:07:10.922Z
+// URL       : https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?subject=dsa&approach=optimal-approach&tab=aiChat
+// Solved    : 2026-05-30T18:35:11.645Z
 // ────────────────────────────────────────────────────────────
 
-class Solution {
-    public ListNode deleteMiddle(ListNode head) {
-    if(head == null || head.next == null) 
-    return null;
-    ListNode slow = head;
-    ListNode fast = head.next.next;
-    while(fast != null && fast.next != null) {
-        slow = slow.next;
-        fast = fast.next.next;
+                l1 = l1.next;
+            }
+            if(l2 != null) {
+                sum += l2.data;
+                l2 = l2.next;
+            }
+            sum += carry;
+            carry = sum/10;
+            ListNode node = new ListNode(sum % 10);
+            temp.next = node;
+            temp = temp.next;
+        }
+        return dummy.next;
     }
-      slow.next = slow.next.next; // skip
-      return head;
-     }
-} 
+}
