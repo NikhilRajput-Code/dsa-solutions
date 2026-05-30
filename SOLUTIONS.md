@@ -261,3 +261,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | LeetCode | [Remove Linked List Elements](LeetCode/remove-linked-list-elements/solution.java) | Easy | java | 2026-05-29 |
 | - | LeetCode | [Remove Linked List Elements](LeetCode/remove-linked-list-elements/solution.java) | Easy | java | 2026-05-29 |
 | - | TUF | [Your Entire Interview PrepJourney Simplified in ONE STOP](TUF/your-entire-interview-prepjourney-simplified-in-one-stop/solution.cpp) | Unknown | cpp | 2026-05-30 |
+| - | TUF | [Your Entire Interview PrepJourney Simplified in ONE STOP](TUF/your-entire-interview-prepjourney-simplified-in-one-stop/solution.cpp) | Unknown | cpp | 2026-05-30 |
