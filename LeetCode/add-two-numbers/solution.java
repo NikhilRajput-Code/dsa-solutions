@@ -4,22 +4,21 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/add-two-numbers/
-// Solved    : 2026-05-30T18:36:40.024Z
+// Solved    : 2026-05-30T18:37:00.577Z
 // ────────────────────────────────────────────────────────────
 
-                l1 = l1.next;
-                sum += l1.data;
-            if(l1 != null) {
-            int sum = 0;
-        while((l1 != null || l2 != null) || carry != 0 ) {
-        int carry = 0;
-        ListNode temp = dummy;
-        ListNode dummy = new ListNode();
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-class Solution {
-
 */
-}
-    ListNode(int x, ListNode next) { data = x; this.next = next; }
-    ListNode(int x) { data = x; next = null; }
-    ListNode() { data = 0; next = null; }
+
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode();
+        ListNode temp = dummy;
+        int carry = 0;
+        while((l1 != null || l2 != null) || carry != 0 ) {
+            int sum = 0;
+            if(l1 != null) {
+                sum += l1.data;
+                l1 = l1.next;
+            }
+            if(l2 != null) {
+                sum += l2.data;
