@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=submissions
-// Solved    : 2026-05-30T17:42:40.053Z
+// Solved    : 2026-05-30T17:42:50.029Z
 // ────────────────────────────────────────────────────────────
 
     return null;
