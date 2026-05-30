@@ -418,3 +418,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | LeetCode | [Coin Change](LeetCode/coin-change/solution.java) | Medium | java | 2026-05-30 |
+| - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
