@@ -3,18 +3,18 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll?subject=dsa&approach=optimal-approach&tab=submissions
-// Solved    : 2026-05-30T17:33:51.023Z
+// URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=editorial&approach=optimal
+// Solved    : 2026-05-30T17:39:11.825Z
 // ────────────────────────────────────────────────────────────
 
-}
-*/
+    if(head == null & head.next == null) 
+    public ListNode deleteMiddle(ListNode head) {
+ */
 
 class Solution {
-    public ListNode insertAtHead(ListNode head, int X) {
-        //YOUR CODE GOES HERE
-        ListNode newnode = new ListNode(X);
-        newnode.next = head;
-        head = newnode;
-        return head;
-    }
+    return null;
+    ListNode slow = head;
+    ListNode fast = head.next.next;
+    while(fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
