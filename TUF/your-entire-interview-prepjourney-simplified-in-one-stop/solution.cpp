@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : cpp
 // URL       : https://takeuforward.org/plus
-// Solved    : 2026-05-30T17:26:31.405Z
+// Solved    : 2026-05-30T17:26:41.410Z
 // ────────────────────────────────────────────────────────────
 
 // Paste your solution here.
