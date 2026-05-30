@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=submissions
-// Solved    : 2026-05-30T17:43:21.260Z
+// Solved    : 2026-05-30T17:43:30.422Z
 // ────────────────────────────────────────────────────────────
 
     return null;
@@ -15,6 +15,6 @@
         fast = fast.next.next;
     }
       slow.next = slow.next.next; // skip
-    if(head == null & head.next == null) 
-    public ListNode deleteMiddle(ListNode head) {
-class Solution {
+      return head;
+     }
+}
