@@ -392,3 +392,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | LeetCode | [Coin Change](LeetCode/coin-change/solution.java) | Medium | java | 2026-05-30 |
 | - | LeetCode | [Linked List Cycle II](LeetCode/linked-list-cycle-ii/solution.java) | Medium | java | 2026-05-30 |
 | - | LeetCode | [Linked List Cycle II](LeetCode/linked-list-cycle-ii/solution.java) | Medium | java | 2026-05-30 |
+| - | LeetCode | [Coin Change](LeetCode/coin-change/solution.java) | Medium | java | 2026-05-30 |
