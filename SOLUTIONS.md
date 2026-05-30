@@ -363,3 +363,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | LeetCode | [Find the Middle Index in Array](LeetCode/find-the-middle-index-in-array/solution.cpp) | Easy | cpp | 2026-05-30 |
 | - | LeetCode | [Find the Middle Index in Array](LeetCode/find-the-middle-index-in-array/solution.cpp) | Easy | cpp | 2026-05-30 |
+| - | LeetCode | [Find the Middle Index in Array](LeetCode/find-the-middle-index-in-array/solution.java) | Easy | java | 2026-05-30 |
