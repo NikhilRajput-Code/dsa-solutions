@@ -3,8 +3,8 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=editorial&approach=optimal
-// Solved    : 2026-05-30T17:41:30.757Z
+// URL       : https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?subject=dsa-concept-revision&tab=submissions
+// Solved    : 2026-05-30T17:42:36.266Z
 // ────────────────────────────────────────────────────────────
 
     return null;
@@ -14,7 +14,7 @@
         slow = slow.next;
         fast = fast.next.next;
     }
-      slow.next = slow.next.next;
+      slow.next = slow.next.next; // sa
       return head;
      }
 }
