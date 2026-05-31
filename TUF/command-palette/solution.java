@@ -3,22 +3,19 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?subject=dsa&approach=optimal-approach&tab=submissions
-// Solved    : 2026-05-30T18:37:30.272Z
+// URL       : https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?subject=dsa&approach=optimal&tab=editorial
+// Solved    : 2026-05-31T04:50:54.261Z
 // ────────────────────────────────────────────────────────────
 
-        ListNode temp = dummy;
-class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode();
-        int carry = 0;
-        while((l1 != null || l2 != null) || carry != 0 ) {
-            int sum = 0;
-            if(l1 != null) {
-                sum += l1.data;
-                l1 = l1.next;
-            }
-            if(l2 != null) {
-                sum += l2.data;
-                l2 = l2.next;
-            }
+       ListNode evenHead = head.next;
+       while(even != null && even.next != null) {
+        odd.next = odd.next.next;
+        even.next = even.next.next;
+       ListNode even = head.next;
+        odd = odd.next;
+        even = even.next;
+       }
+       odd.next = evenHead;
+       return head;
+    }
+}
