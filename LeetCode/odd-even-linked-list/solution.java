@@ -4,7 +4,7 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/odd-even-linked-list/
-// Solved    : 2026-05-31T04:52:20.520Z
+// Solved    : 2026-05-31T04:52:30.152Z
 // ────────────────────────────────────────────────────────────
 
  *     ListNode() {}
@@ -17,5 +17,5 @@ class Solution {
     if(head == null || head.next == null) 
     }
     return head;
-    Lis
-}
+    ListNode odd = head;
+    L
