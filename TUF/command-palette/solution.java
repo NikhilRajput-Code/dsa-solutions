@@ -3,8 +3,8 @@
 // Problem   : Command Palette
 // Difficulty: Unknown
 // Language  : java
-// URL       : https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?subject=dsa&approach=optimal&tab=editorial
-// Solved    : 2026-05-31T04:50:54.261Z
+// URL       : https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?subject=dsa&approach=optimal&tab=submissions
+// Solved    : 2026-05-31T04:51:00.171Z
 // ────────────────────────────────────────────────────────────
 
        ListNode evenHead = head.next;
@@ -16,6 +16,6 @@
         even = even.next;
        }
        odd.next = evenHead;
-       return head;
-    }
-}
+       ListNode odd = head;
+       }
+        return head;
