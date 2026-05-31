@@ -4,13 +4,13 @@
 // Difficulty: Medium
 // Language  : java
 // URL       : https://leetcode.com/problems/odd-even-linked-list/
-// Solved    : 2026-05-31T04:54:30.153Z
+// Solved    : 2026-05-31T04:54:40.463Z
 // ────────────────────────────────────────────────────────────
 
     ListNode odd = head;
     ListNode even = head.next;
     ListNode evenHead = head.next;
-    while(even != null && fast.next != null) {
+    while(even != null && even.next != null) {
         odd.next = odd.next.next;
         even.next = even.next.next;
         odd = odd.next;
