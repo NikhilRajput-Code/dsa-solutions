@@ -435,3 +435,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-31 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-31 |
 | - | LeetCode | [Odd Even Linked List](LeetCode/odd-even-linked-list/solution.cpp) | Medium | cpp | 2026-05-31 |
+| - | LeetCode | [Odd Even Linked List](LeetCode/odd-even-linked-list/solution.java) | Medium | java | 2026-05-31 |
