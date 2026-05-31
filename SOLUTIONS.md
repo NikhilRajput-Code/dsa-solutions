@@ -430,3 +430,4 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Command Palette](TUF/command-palette/solution.java) | Unknown | java | 2026-05-30 |
 | - | LeetCode | [Add Two Numbers](LeetCode/add-two-numbers/solution.java) | Medium | java | 2026-05-30 |
 | - | TUF | [Command Palette](TUF/command-palette/solution.cpp) | Unknown | cpp | 2026-05-30 |
+| - | TUF | [Command Palette](TUF/command-palette/solution.cpp) | Unknown | cpp | 2026-05-31 |
