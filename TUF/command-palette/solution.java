@@ -4,7 +4,7 @@
 // Difficulty: Unknown
 // Language  : java
 // URL       : https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?subject=dsa&approach=optimal&tab=submissions
-// Solved    : 2026-05-31T04:51:00.171Z
+// Solved    : 2026-05-31T04:51:11.051Z
 // ────────────────────────────────────────────────────────────
 
        ListNode evenHead = head.next;
