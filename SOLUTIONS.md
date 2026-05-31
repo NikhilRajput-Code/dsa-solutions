@@ -459,3 +459,6 @@ Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) 
 | - | TUF | [Everything You 
  Need To Crack
 Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) | Unknown | cpp | 2026-05-31 |
+| - | TUF | [Everything You 
+ Need To Crack
+Tech Interviews](TUF/everything-you-need-to-crack-tech-interviews/solution.cpp) | Unknown | cpp | 2026-05-31 |
